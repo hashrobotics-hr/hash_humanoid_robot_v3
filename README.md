@@ -1,0 +1,1 @@
+# hash_humanoid_robot_v3
